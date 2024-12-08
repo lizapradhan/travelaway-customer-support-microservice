@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/CustomerSupportMicroservice/Properties/ServiceDependencies/TravelAwayCustomerSupport - Web Deploy/profile.arm.json
+/CustomerSupportMicroservice/appsettings.Development.json
